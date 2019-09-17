@@ -1,0 +1,13 @@
+,wav_filename,wav_filesize,transcript
+0,/Volumes/OpenSource/STT/DATA/out.wav,31240,cipro
+1,/Volumes/OpenSource/STT/DATA/16khz-out.wav,31240,cipro
+2,/Volumes/OpenSource/STT/DATA/16khz-differin.wav,22922,differin
+3,/Volumes/OpenSource/STT/DATA/16khz-meloxicam.wav,63642,meloxicam
+4,/Volumes/OpenSource/STT/DATA/16khz-finasteride.wav,32256,finasteride
+5,/Volumes/OpenSource/STT/DATA/16khz-arimidex.wav,62806,arimidex
+6,/Volumes/OpenSource/STT/DATA/16khz-fioricet.wav,73674,fioricet
+7,/Volumes/OpenSource/STT/DATA/16khz-humira.wav,42744,humira
+8,/Volumes/OpenSource/STT/DATA/16khz-anastrozole.wav,56954,anastrozole
+9,/Volumes/OpenSource/STT/DATA/16khz-cipro.wav,31240,cipro
+10,/Volumes/OpenSource/STT/DATA/16khz-ciprofloxacin.wav,42358,ciprofloxacin
+11,/Volumes/OpenSource/STT/DATA/16khz-zovirax.wav,36984,zovirax
